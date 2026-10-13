@@ -1,0 +1,6 @@
+{
+  "name": "Tiếng Anh 3 Global Success - Vui Học Tương Tác",
+  "description": "Ứng dụng trực quan học tiếng Anh lớp 3 theo chuẩn bộ sách Kết Nối Tri Thức Với Cuộc Sống: Flashcard thông minh, trò chơi tương tác, phát âm chuẩn và bài kiểm tra từng unit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
